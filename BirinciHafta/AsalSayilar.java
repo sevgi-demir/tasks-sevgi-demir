@@ -18,7 +18,7 @@ public class AsalSayilar {
 
                 }
             }
-            if(sayac == 0 && i != 1 ) {
+            if(sayac == 0 ) {
                 toplam+= i;
             }
         }
