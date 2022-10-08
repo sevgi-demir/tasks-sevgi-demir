@@ -1,6 +1,7 @@
 /**
  * @author sevgidemir
  */
+
 public abstract class Araclar {
     private static String aracTipi;
     private static int bagajKapasitesi;
@@ -42,7 +43,7 @@ public abstract class Araclar {
     }
     static void kontrol2() {
         System.out.println("Kişisel hesabınızla giriş yaptığınız için sadece hathback araçları görebilirsiniz:");
-        System.out.println("Araç tipi: Hatchback " +  "\nRengi: " + Hatchback.getRenk() + "\nBagaj kapasitesi: " + Hatchback.getBagajKapasitesi()  + "\nGünlük kiralama ücreti: " + Hatchback.getGunlukKiralamaUcreti() + " TL"  );
+        System.out.println("Araç tipi: " + Hatchback.getAracTipi() +  "\nRengi: " + Hatchback.getRenk() + "\nBagaj kapasitesi: " + Hatchback.getBagajKapasitesi()  + "\nGünlük kiralama ücreti: " + Hatchback.getGunlukKiralamaUcreti() + " TL"  );
     }
 }
 

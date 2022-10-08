@@ -1,6 +1,7 @@
 /**
  * @author sevgidemir
  */
+
 public class Sedan extends Araclar {
     private static double GunlukKiralamaUcreti;
     private static double AylikKiralamaUcreti;

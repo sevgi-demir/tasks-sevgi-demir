@@ -1,13 +1,14 @@
 /**
  * @author sevgidemir
  */
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
         //Araçların özellikleri
-        SUV suv = new SUV("SUV", 250, "mavi");
+        SUV suv = new SUV("SUV", 300, "mavi");
         Sedan sedan = new Sedan("Sedan", 500, "lacivert");
         Hatchback hatchback = new Hatchback("Hatchback", 250, "beyaz");
 

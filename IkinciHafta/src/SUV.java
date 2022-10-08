@@ -1,6 +1,7 @@
 /**
  * @author sevgidemir
  */
+
 public class SUV extends Araclar {
     private static double GunlukKiralamaUcreti;
     private static double AylikKiralamaUcreti;
@@ -24,6 +25,7 @@ public class SUV extends Araclar {
         AylikKiralamaUcreti = aylikKiralamaUcreti;
     }
 }
+
 
 
 
