@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IkinciHafta/IkinciHafta.iml" filepath="$PROJECT_DIR$/IkinciHafta/IkinciHafta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcuncuHafta/UcuncuHaftaOdev1.iml" filepath="$PROJECT_DIR$/UcuncuHafta/UcuncuHaftaOdev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcuncuHaftaOdev2/UcuncuHaftaOdev2.iml" filepath="$PROJECT_DIR$/UcuncuHaftaOdev2/UcuncuHaftaOdev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tasks-sevgi-demir.iml" filepath="$PROJECT_DIR$/.idea/tasks-sevgi-demir.iml" />
+    </modules>
+  </component>
+</project>
