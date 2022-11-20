@@ -44,7 +44,8 @@
      * Malları alsın. depo guncellensin.    
      * Online satışta müşteri depoda kalan maldan fazla bir miktarda mal almak istedi.
      * Bunu kullanıcıya bildir.
-     ---------------------------------------------------------------------------------------------------------------
+     
+ ### UcuncuHaftaOdev2    
      *  Bir havayolu şirketi bilet alma sistemi tasarlamamız gerekiyor.
      *  Case 1: En az 2 farklı bilet hesaplama yöntemi olan bir uçuş ssistemi olmalı. Örnel: THY ve Pegasus gibi
      *  Case2: Yolcu bilet almaya geldiğinde ona boş olan koltuklar gösterilmeli.
